@@ -2,6 +2,7 @@ import cv2
 import os
 import mediapipe as mp
 import argparse
+from tqdm import tqdm as tqdm_bar
 
 # ----------------- Normalize Images -----------------
 # This function takes in an input directory and an output directory 
@@ -15,7 +16,7 @@ def normalizeImages(inputDirectory, outputDirectory):
     mp_face_detect = mp.solutions.face_detection
     face_detect = mp_face_detect.FaceDetection()
 
-    for root, _, files in os.walk(inputDirectory):
+    for root, _, files in tqdm_bar(os.walk(inputDirectory), desc="Normalizing images", unit=" images"):
         for file in files:
             if file.endswith(".jpg"):
                 # using relative path to create same folder structure in output directory
@@ -43,8 +44,8 @@ def normalizeImages(inputDirectory, outputDirectory):
                 if results.detections:
                     detection = results.detections[0]
                     bboxC = detection.location_data.relative_bounding_box
-                    ih, iw, _ = img.shape
-                    x, y, w, h = int(bboxC.xmin * iw), int(bboxC.ymin * ih), int(bboxC.width * iw), int(bboxC.height * ih)
+                    height, width, _ = img.shape
+                    x, y, w, h = int(bboxC.xmin * width), int(bboxC.ymin * height), int(bboxC.width * width), int(bboxC.height * height)
 
                     # checking if area is square
                     if w > h:
@@ -57,7 +58,7 @@ def normalizeImages(inputDirectory, outputDirectory):
                         w = h
 
                     # verifying that the bounding box is within the original image
-                    x, y, w, h = max(0, x), max(0, y), min(iw - x, w), min(ih - y, h)
+                    x, y, w, h = max(0, x), max(0, y), min(width - x, w), min(height - y, h)
 
                     # cropping to square and resizing to 48x48 
                     cropped_face = img[y:y + h, x:x + w]
