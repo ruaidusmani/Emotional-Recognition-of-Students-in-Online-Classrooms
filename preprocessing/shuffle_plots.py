@@ -44,7 +44,7 @@ for emotion in dict_images:
        plt.imshow(img)
        plt.axis('off')
 
-    # plt.show()
+    plt.show()
     plt.savefig('../preprocessing/5x5_grid_%s.png'%(emotion))
 
 
