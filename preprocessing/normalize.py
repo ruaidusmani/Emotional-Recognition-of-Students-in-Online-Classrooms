@@ -12,6 +12,11 @@ from tqdm import tqdm as tqdm_bar
 # ---------------------------------------------------
 def normalizeImages(inputDirectory, outputDirectory, color_option=False):
 
+    # error handling for input directory
+    if not os.path.exists(inputDirectory):
+        print("\nInput directory does not exist.\n")
+        return
+    
     # initializing mediapipe for face detection
     mp_face_detect = mp.solutions.face_detection
     face_detect = mp_face_detect.FaceDetection()
