@@ -41,7 +41,7 @@ for emotion in dict_images:
     for i, file_name in enumerate(disp_img):
        img = mpimg.imread(emotion + "/" + file_name)
        plt.subplot(rows, columns, i + 1)
-       plt.imshow(img)
+       plt.imshow(img, cmap='gray')
        plt.axis('off')
 
     plt.show()
