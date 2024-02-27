@@ -1,5 +1,4 @@
 *.jpg
 cnn_proj/
 .vscode/
-*.ipynb
 *.png
