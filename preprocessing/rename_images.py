@@ -5,11 +5,6 @@ import shutil
 import argparse
 
 def rename_images(inputDirectory, outputDirectory):
-
-    # error handling for input directory
-    if not os.path.exists(inputDirectory):
-        print("\nInput directory does not exist.\n")
-        return
     
     # initialize mediapipe
     mp_face_detection = mp.solutions.face_detection
