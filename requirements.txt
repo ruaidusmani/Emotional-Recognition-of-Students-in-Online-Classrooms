@@ -2,3 +2,4 @@ argparse
 opencv-python
 mediapipe
 tdqm
+numpy
