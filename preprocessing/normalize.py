@@ -68,7 +68,7 @@ def normalizeImages(inputDirectory, outputDirectory, color_option=False):
 
             # cropping to square and resizing to 48x48 
             cropped_face = img[y:y + h, x:x + w]
-            cropped_face = cv2.resize(cropped_face, (crop_size, crop_size))
+            cropped_face = cv2.resize(cropped_face, (crop_size, crop_size), interpolation=cv2.INTER_AREA)
 
             # converting back to grayscale if output type is greyscale
             if color_option == False:
