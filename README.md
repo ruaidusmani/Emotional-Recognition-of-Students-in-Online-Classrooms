@@ -48,7 +48,7 @@ python renames_images.py <input_directory> <output_directory>
 To normalize images (`-c` flag is for color images. Default is greyscale.):
 
 ```
-python normalize.py <input_directory> <output_directory> [-c for color images]
+python normalize.py [-c for color images] <input_directory> <output_directory> 
 ```
 
 ### Augmenting Images
