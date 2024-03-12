@@ -24,7 +24,10 @@ This project currently consists of a collection of scripts designed to process, 
 - **tqdm**: Provides a convenient progress bar for lengthy operations, improving the user interface and user experience during script execution.
 - **Matplotlib & Seaborn**: These libraries are used for generating informative visualizations, such as class distributions and pixel intensity histograms, to analyze the dataset.
 - **Pandas & NumPy**: Essential tools for data manipulation and numerical operations, enabling efficient handling and transformation of image data.
-  
+
+## Datasets
+- Datasets are accessible here (Login with a concordia email): https://liveconcordia-my.sharepoint.com/:f:/g/personal/lu_rami_live_concordia_ca/EvQYxf2VPVJHvL-TsQW0i9ABTrSW5WSeH4Pjz5NTlnD6Fg?e=LZXkmF
+
 ## Installation
 
 Ensure Python is installed on your system. Install the required dependencies by navigating to the project's directory and running:
