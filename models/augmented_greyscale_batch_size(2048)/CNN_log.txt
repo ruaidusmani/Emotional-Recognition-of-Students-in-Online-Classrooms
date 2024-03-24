@@ -1,0 +1,127 @@
+Epoch [1/1000], Step [1/4], Loss: 6.2280, Accuracy: 24.53%, F1 Score: 0.10
+6.228013515472412
+Epoch [2/1000], Step [1/4], Loss: 1.8059, Accuracy: 35.28%, F1 Score: 0.27
+1.8059237003326416
+Epoch [3/1000], Step [1/4], Loss: 1.3657, Accuracy: 33.88%, F1 Score: 0.31
+1.3656928539276123
+Epoch [4/1000], Step [1/4], Loss: 1.2290, Accuracy: 46.61%, F1 Score: 0.47
+1.2289799451828003
+Epoch [5/1000], Step [1/4], Loss: 1.1691, Accuracy: 44.28%, F1 Score: 0.41
+1.1691206693649292
+Epoch [6/1000], Step [1/4], Loss: 1.1338, Accuracy: 47.08%, F1 Score: 0.49
+1.133835792541504
+Epoch [7/1000], Step [1/4], Loss: 1.0501, Accuracy: 51.29%, F1 Score: 0.53
+1.0501081943511963
+Epoch [8/1000], Step [1/4], Loss: 1.0011, Accuracy: 49.53%, F1 Score: 0.57
+1.0011290311813354
+Epoch [9/1000], Step [1/4], Loss: 0.9383, Accuracy: 60.05%, F1 Score: 0.60
+0.9382970929145813
+Epoch [10/1000], Step [1/4], Loss: 0.8504, Accuracy: 59.93%, F1 Score: 0.63
+0.8504064083099365
+Epoch [11/1000], Step [1/4], Loss: 0.7441, Accuracy: 68.34%, F1 Score: 0.69
+0.7441282272338867
+Epoch [12/1000], Step [1/4], Loss: 0.6661, Accuracy: 73.25%, F1 Score: 0.72
+0.6661244630813599
+Epoch [13/1000], Step [1/4], Loss: 0.5941, Accuracy: 76.29%, F1 Score: 0.76
+0.5941137075424194
+Epoch [14/1000], Step [1/4], Loss: 0.5464, Accuracy: 79.09%, F1 Score: 0.78
+0.5464314222335815
+Epoch [15/1000], Step [1/4], Loss: 0.5024, Accuracy: 82.36%, F1 Score: 0.81
+0.5024082660675049
+Epoch [16/1000], Step [1/4], Loss: 0.4557, Accuracy: 82.36%, F1 Score: 0.83
+0.45570388436317444
+Epoch [17/1000], Step [1/4], Loss: 0.4242, Accuracy: 85.86%, F1 Score: 0.84
+0.42417770624160767
+Epoch [18/1000], Step [1/4], Loss: 0.4040, Accuracy: 84.81%, F1 Score: 0.85
+0.4040071666240692
+Epoch [19/1000], Step [1/4], Loss: 0.3627, Accuracy: 88.20%, F1 Score: 0.87
+0.3627302646636963
+Epoch [20/1000], Step [1/4], Loss: 0.3409, Accuracy: 89.84%, F1 Score: 0.88
+0.34090471267700195
+Epoch [21/1000], Step [1/4], Loss: 0.3328, Accuracy: 88.20%, F1 Score: 0.87
+0.3327934443950653
+Epoch [22/1000], Step [1/4], Loss: 0.3113, Accuracy: 89.02%, F1 Score: 0.89
+0.3113156855106354
+Epoch [23/1000], Step [1/4], Loss: 0.2943, Accuracy: 90.30%, F1 Score: 0.89
+0.2943228483200073
+Epoch [24/1000], Step [1/4], Loss: 0.2792, Accuracy: 91.36%, F1 Score: 0.89
+0.2791714370250702
+Epoch [25/1000], Step [1/4], Loss: 0.2664, Accuracy: 91.24%, F1 Score: 0.91
+0.26644450426101685
+Epoch [26/1000], Step [1/4], Loss: 0.2554, Accuracy: 93.81%, F1 Score: 0.90
+0.2553548514842987
+Epoch [27/1000], Step [1/4], Loss: 0.2417, Accuracy: 92.41%, F1 Score: 0.91
+0.24169038236141205
+Epoch [28/1000], Step [1/4], Loss: 0.2428, Accuracy: 94.28%, F1 Score: 0.91
+0.24277062714099884
+Epoch [29/1000], Step [1/4], Loss: 0.2341, Accuracy: 93.69%, F1 Score: 0.91
+0.23412244021892548
+Epoch [30/1000], Step [1/4], Loss: 0.2245, Accuracy: 93.22%, F1 Score: 0.91
+0.22453096508979797
+Epoch [31/1000], Step [1/4], Loss: 0.1996, Accuracy: 94.28%, F1 Score: 0.93
+0.19960789382457733
+Epoch [32/1000], Step [1/4], Loss: 0.2025, Accuracy: 95.79%, F1 Score: 0.92
+0.20249176025390625
+Epoch [33/1000], Step [1/4], Loss: 0.1972, Accuracy: 96.26%, F1 Score: 0.92
+0.1971871703863144
+Epoch [34/1000], Step [1/4], Loss: 0.1842, Accuracy: 95.21%, F1 Score: 0.93
+0.1841641217470169
+Epoch [35/1000], Step [1/4], Loss: 0.1950, Accuracy: 95.56%, F1 Score: 0.93
+0.19501355290412903
+Epoch [36/1000], Step [1/4], Loss: 0.1896, Accuracy: 96.14%, F1 Score: 0.92
+0.18963299691677094
+Epoch [37/1000], Step [1/4], Loss: 0.1647, Accuracy: 97.08%, F1 Score: 0.94
+0.16465187072753906
+Epoch [38/1000], Step [1/4], Loss: 0.1705, Accuracy: 97.78%, F1 Score: 0.94
+0.17050044238567352
+Epoch [39/1000], Step [1/4], Loss: 0.1693, Accuracy: 97.20%, F1 Score: 0.94
+0.1692602038383484
+Epoch [40/1000], Step [1/4], Loss: 0.1607, Accuracy: 97.43%, F1 Score: 0.94
+0.160735085606575
+Epoch [41/1000], Step [1/4], Loss: 0.1573, Accuracy: 96.96%, F1 Score: 0.94
+0.15725025534629822
+Epoch [42/1000], Step [1/4], Loss: 0.1433, Accuracy: 98.01%, F1 Score: 0.94
+0.14329101145267487
+Epoch [43/1000], Step [1/4], Loss: 0.1375, Accuracy: 98.48%, F1 Score: 0.95
+0.137532040476799
+Epoch [44/1000], Step [1/4], Loss: 0.1246, Accuracy: 98.48%, F1 Score: 0.95
+0.12455282360315323
+Epoch [45/1000], Step [1/4], Loss: 0.1285, Accuracy: 99.30%, F1 Score: 0.95
+0.12847700715065002
+Epoch [46/1000], Step [1/4], Loss: 0.1102, Accuracy: 99.07%, F1 Score: 0.96
+0.11016776412725449
+Epoch [47/1000], Step [1/4], Loss: 0.1192, Accuracy: 99.30%, F1 Score: 0.96
+0.11923345178365707
+Epoch [48/1000], Step [1/4], Loss: 0.1104, Accuracy: 99.53%, F1 Score: 0.96
+0.11036470532417297
+Epoch [49/1000], Step [1/4], Loss: 0.1210, Accuracy: 98.83%, F1 Score: 0.96
+0.1210026890039444
+Epoch [50/1000], Step [1/4], Loss: 0.1345, Accuracy: 99.18%, F1 Score: 0.95
+0.13451902568340302
+Epoch [51/1000], Step [1/4], Loss: 0.1025, Accuracy: 99.65%, F1 Score: 0.97
+0.10246309638023376
+Epoch [52/1000], Step [1/4], Loss: 0.1101, Accuracy: 99.18%, F1 Score: 0.96
+0.11014531552791595
+Epoch [53/1000], Step [1/4], Loss: 0.1106, Accuracy: 99.88%, F1 Score: 0.96
+0.11059220135211945
+Epoch [54/1000], Step [1/4], Loss: 0.1130, Accuracy: 99.77%, F1 Score: 0.97
+0.11302565783262253
+Epoch [55/1000], Step [1/4], Loss: 0.1098, Accuracy: 100.00%, F1 Score: 0.97
+0.10980861634016037
+Epoch [56/1000], Step [1/4], Loss: 0.1049, Accuracy: 99.77%, F1 Score: 0.96
+0.10491734743118286
+Epoch [57/1000], Step [1/4], Loss: 0.1107, Accuracy: 99.18%, F1 Score: 0.97
+0.11068888008594513
+Epoch [58/1000], Step [1/4], Loss: 0.1098, Accuracy: 99.65%, F1 Score: 0.96
+0.10980058461427689
+Epoch [59/1000], Step [1/4], Loss: 0.1051, Accuracy: 99.88%, F1 Score: 0.97
+0.10513835400342941
+Epoch [60/1000], Step [1/4], Loss: 0.1151, Accuracy: 99.88%, F1 Score: 0.97
+0.11514566093683243
+Epoch [61/1000], Step [1/4], Loss: 0.1235, Accuracy: 99.18%, F1 Score: 0.97
+0.12353526055812836
+
+----------------------------------------
+Early stopping at epoch 60
+Best epoch:  50
+Best loss:  0.10246309638023376  Best test F1 score:  0.9654074795342599  Best test accuracy:  0.9653333333333334
