@@ -4,3 +4,5 @@ mediapipe
 tdqm
 numpy
 scikit-learn
+seaborn
+pandas
