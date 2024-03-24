@@ -1,0 +1,31 @@
+Epoch [1/1000], Step [1/4], Loss: 1.2551, Accuracy: 31.43%, F1 Score: 0.40
+Epoch [2/1000], Step [1/4], Loss: 0.9315, Accuracy: 62.50%, F1 Score: 0.60
+Epoch [3/1000], Step [1/4], Loss: 0.6950, Accuracy: 70.68%, F1 Score: 0.69
+Epoch [4/1000], Step [1/4], Loss: 0.5208, Accuracy: 75.47%, F1 Score: 0.78
+Epoch [5/1000], Step [1/4], Loss: 0.4592, Accuracy: 85.16%, F1 Score: 0.81
+Epoch [6/1000], Step [1/4], Loss: 0.4490, Accuracy: 86.57%, F1 Score: 0.84
+Epoch [7/1000], Step [1/4], Loss: 0.3599, Accuracy: 86.80%, F1 Score: 0.85
+Epoch [8/1000], Step [1/4], Loss: 0.3373, Accuracy: 87.50%, F1 Score: 0.87
+Epoch [9/1000], Step [1/4], Loss: 0.3057, Accuracy: 89.72%, F1 Score: 0.89
+Epoch [10/1000], Step [1/4], Loss: 0.2667, Accuracy: 93.69%, F1 Score: 0.90
+Epoch [11/1000], Step [1/4], Loss: 0.2634, Accuracy: 94.28%, F1 Score: 0.91
+Epoch [12/1000], Step [1/4], Loss: 0.2501, Accuracy: 93.22%, F1 Score: 0.91
+Epoch [13/1000], Step [1/4], Loss: 0.2561, Accuracy: 95.44%, F1 Score: 0.92
+Epoch [14/1000], Step [1/4], Loss: 0.2574, Accuracy: 95.44%, F1 Score: 0.92
+Epoch [15/1000], Step [1/4], Loss: 0.2514, Accuracy: 96.73%, F1 Score: 0.92
+Epoch [16/1000], Step [1/4], Loss: 0.2386, Accuracy: 96.73%, F1 Score: 0.93
+Epoch [17/1000], Step [1/4], Loss: 0.2521, Accuracy: 97.55%, F1 Score: 0.93
+Epoch [18/1000], Step [1/4], Loss: 0.2451, Accuracy: 97.43%, F1 Score: 0.93
+Epoch [19/1000], Step [1/4], Loss: 0.2638, Accuracy: 98.13%, F1 Score: 0.92
+Epoch [20/1000], Step [1/4], Loss: 0.2718, Accuracy: 98.25%, F1 Score: 0.92
+Epoch [21/1000], Step [1/4], Loss: 0.2945, Accuracy: 99.07%, F1 Score: 0.92
+Epoch [22/1000], Step [1/4], Loss: 0.3271, Accuracy: 97.55%, F1 Score: 0.91
+Epoch [23/1000], Step [1/4], Loss: 0.3407, Accuracy: 98.83%, F1 Score: 0.91
+Epoch [24/1000], Step [1/4], Loss: 0.3091, Accuracy: 96.85%, F1 Score: 0.91
+Epoch [25/1000], Step [1/4], Loss: 0.2511, Accuracy: 98.25%, F1 Score: 0.93
+Epoch [26/1000], Step [1/4], Loss: 0.2619, Accuracy: 99.42%, F1 Score: 0.93
+
+----------------------------------------
+Early stopping at epoch 25
+Best epoch:  15
+Best loss:  0.23862038552761078  Best test F1 score:  0.9278303515001309  Best test accuracy:  0.928
