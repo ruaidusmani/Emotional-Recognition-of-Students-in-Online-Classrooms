@@ -1,0 +1,26 @@
+Model:  CNN 
+
+Test Accuracy of the model (validation): 91.73 %
+F1 Score of the model (validation): 91.71 %
+
+
+Test Accuracy of the model (testing): 90.53 %
+F1 Score of the model (testing): 90.51 %
+
+Model:  CNN2 
+
+Test Accuracy of the model (validation): 93.47 %
+F1 Score of the model (validation): 93.45 %
+
+
+Test Accuracy of the model (testing): 91.20 %
+F1 Score of the model (testing): 91.14 %
+
+Model:  CNN3 
+
+Test Accuracy of the model (validation): 91.80 %
+F1 Score of the model (validation): 91.82 %
+
+
+Test Accuracy of the model (testing): 90.87 %
+F1 Score of the model (testing): 90.78 %
