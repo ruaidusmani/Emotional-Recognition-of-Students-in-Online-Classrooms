@@ -1,0 +1,113 @@
+Epoch [1/1000], Step [1/4], Loss: 2.3737, Accuracy: 26.29%, F1 Score: 0.28
+2.373709201812744
+Epoch [2/1000], Step [1/4], Loss: 1.2743, Accuracy: 27.45%, F1 Score: 0.43
+1.2742860317230225
+Epoch [3/1000], Step [1/4], Loss: 1.1272, Accuracy: 50.35%, F1 Score: 0.47
+1.1272386312484741
+Epoch [4/1000], Step [1/4], Loss: 0.9756, Accuracy: 53.62%, F1 Score: 0.54
+0.9756267070770264
+Epoch [5/1000], Step [1/4], Loss: 0.8314, Accuracy: 61.80%, F1 Score: 0.60
+0.8313836455345154
+Epoch [6/1000], Step [1/4], Loss: 0.7374, Accuracy: 63.79%, F1 Score: 0.68
+0.7374359369277954
+Epoch [7/1000], Step [1/4], Loss: 0.6144, Accuracy: 73.71%, F1 Score: 0.74
+0.6144297122955322
+Epoch [8/1000], Step [1/4], Loss: 0.5283, Accuracy: 77.92%, F1 Score: 0.78
+0.5283180475234985
+Epoch [9/1000], Step [1/4], Loss: 0.4520, Accuracy: 82.24%, F1 Score: 0.82
+0.4520126283168793
+Epoch [10/1000], Step [1/4], Loss: 0.4138, Accuracy: 85.51%, F1 Score: 0.84
+0.4138348698616028
+Epoch [11/1000], Step [1/4], Loss: 0.3776, Accuracy: 85.16%, F1 Score: 0.86
+0.3776152431964874
+Epoch [12/1000], Step [1/4], Loss: 0.3482, Accuracy: 87.85%, F1 Score: 0.87
+0.3481684625148773
+Epoch [13/1000], Step [1/4], Loss: 0.3109, Accuracy: 87.27%, F1 Score: 0.89
+0.3109494745731354
+Epoch [14/1000], Step [1/4], Loss: 0.3059, Accuracy: 91.47%, F1 Score: 0.88
+0.3058646321296692
+Epoch [15/1000], Step [1/4], Loss: 0.2843, Accuracy: 90.65%, F1 Score: 0.89
+0.2842593789100647
+Epoch [16/1000], Step [1/4], Loss: 0.2581, Accuracy: 92.64%, F1 Score: 0.90
+0.2580897808074951
+Epoch [17/1000], Step [1/4], Loss: 0.2522, Accuracy: 91.24%, F1 Score: 0.90
+0.2521975040435791
+Epoch [18/1000], Step [1/4], Loss: 0.2482, Accuracy: 92.99%, F1 Score: 0.90
+0.24823182821273804
+Epoch [19/1000], Step [1/4], Loss: 0.2186, Accuracy: 93.81%, F1 Score: 0.92
+0.21864452958106995
+Epoch [20/1000], Step [1/4], Loss: 0.2164, Accuracy: 95.33%, F1 Score: 0.92
+0.21642543375492096
+Epoch [21/1000], Step [1/4], Loss: 0.1963, Accuracy: 94.16%, F1 Score: 0.92
+0.19626423716545105
+Epoch [22/1000], Step [1/4], Loss: 0.1848, Accuracy: 93.46%, F1 Score: 0.92
+0.18478074669837952
+Epoch [23/1000], Step [1/4], Loss: 0.1718, Accuracy: 95.68%, F1 Score: 0.94
+0.17176054418087006
+Epoch [24/1000], Step [1/4], Loss: 0.1669, Accuracy: 96.73%, F1 Score: 0.94
+0.16689537465572357
+Epoch [25/1000], Step [1/4], Loss: 0.1768, Accuracy: 96.14%, F1 Score: 0.94
+0.17682112753391266
+Epoch [26/1000], Step [1/4], Loss: 0.1518, Accuracy: 97.08%, F1 Score: 0.94
+0.15177586674690247
+Epoch [27/1000], Step [1/4], Loss: 0.1374, Accuracy: 97.66%, F1 Score: 0.95
+0.1374349445104599
+Epoch [28/1000], Step [1/4], Loss: 0.1345, Accuracy: 98.48%, F1 Score: 0.95
+0.13453111052513123
+Epoch [29/1000], Step [1/4], Loss: 0.1363, Accuracy: 96.73%, F1 Score: 0.95
+0.13625597953796387
+Epoch [30/1000], Step [1/4], Loss: 0.1374, Accuracy: 98.95%, F1 Score: 0.94
+0.1373637318611145
+Epoch [31/1000], Step [1/4], Loss: 0.1275, Accuracy: 98.13%, F1 Score: 0.95
+0.12750864028930664
+Epoch [32/1000], Step [1/4], Loss: 0.1352, Accuracy: 97.55%, F1 Score: 0.95
+0.13523000478744507
+Epoch [33/1000], Step [1/4], Loss: 0.1143, Accuracy: 97.90%, F1 Score: 0.96
+0.11428981274366379
+Epoch [34/1000], Step [1/4], Loss: 0.1080, Accuracy: 98.25%, F1 Score: 0.97
+0.10800138115882874
+Epoch [35/1000], Step [1/4], Loss: 0.1169, Accuracy: 98.71%, F1 Score: 0.96
+0.11689326912164688
+Epoch [36/1000], Step [1/4], Loss: 0.1075, Accuracy: 99.07%, F1 Score: 0.97
+0.10749794542789459
+Epoch [37/1000], Step [1/4], Loss: 0.1001, Accuracy: 99.53%, F1 Score: 0.97
+0.10006977617740631
+Epoch [38/1000], Step [1/4], Loss: 0.0983, Accuracy: 99.18%, F1 Score: 0.97
+0.09827648103237152
+Epoch [39/1000], Step [1/4], Loss: 0.0980, Accuracy: 99.53%, F1 Score: 0.97
+0.09798707813024521
+Epoch [40/1000], Step [1/4], Loss: 0.0861, Accuracy: 99.53%, F1 Score: 0.97
+0.08608315140008926
+Epoch [41/1000], Step [1/4], Loss: 0.0870, Accuracy: 99.53%, F1 Score: 0.98
+0.08700478076934814
+Epoch [42/1000], Step [1/4], Loss: 0.0879, Accuracy: 99.88%, F1 Score: 0.97
+0.08792322874069214
+Epoch [43/1000], Step [1/4], Loss: 0.0815, Accuracy: 99.88%, F1 Score: 0.98
+0.08151765912771225
+Epoch [44/1000], Step [1/4], Loss: 0.0794, Accuracy: 99.88%, F1 Score: 0.98
+0.07940871268510818
+Epoch [45/1000], Step [1/4], Loss: 0.0842, Accuracy: 99.88%, F1 Score: 0.98
+0.0842355415225029
+Epoch [46/1000], Step [1/4], Loss: 0.0855, Accuracy: 100.00%, F1 Score: 0.98
+0.08552919328212738
+Epoch [47/1000], Step [1/4], Loss: 0.0819, Accuracy: 99.88%, F1 Score: 0.98
+0.08191711455583572
+Epoch [48/1000], Step [1/4], Loss: 0.0896, Accuracy: 100.00%, F1 Score: 0.97
+0.08961165696382523
+Epoch [49/1000], Step [1/4], Loss: 0.0861, Accuracy: 100.00%, F1 Score: 0.98
+0.0860864445567131
+Epoch [50/1000], Step [1/4], Loss: 0.0854, Accuracy: 100.00%, F1 Score: 0.98
+0.08542017638683319
+Epoch [51/1000], Step [1/4], Loss: 0.0894, Accuracy: 100.00%, F1 Score: 0.98
+0.08940672129392624
+Epoch [52/1000], Step [1/4], Loss: 0.0872, Accuracy: 100.00%, F1 Score: 0.98
+0.08722817152738571
+Epoch [53/1000], Step [1/4], Loss: 0.0884, Accuracy: 100.00%, F1 Score: 0.98
+0.08836443722248077
+Epoch [54/1000], Step [1/4], Loss: 0.0901, Accuracy: 100.00%, F1 Score: 0.98
+0.09007695317268372
+
+----------------------------------------
+Early stopping at epoch 53
+Best epoch:  43
+Best loss:  0.07940871268510818  Best test F1 score:  0.976787000283228  Best test accuracy:  0.9766666666666667
