@@ -24,6 +24,7 @@ This project currently consists of a collection of scripts designed to process, 
 - **tqdm**: Provides a convenient progress bar for lengthy operations, improving the user interface and user experience during script execution.
 - **Matplotlib & Seaborn**: These libraries are used for generating informative visualizations, such as class distributions and pixel intensity histograms, to analyze the dataset.
 - **Pandas & NumPy**: Essential tools for data manipulation and numerical operations, enabling efficient handling and transformation of image data.
+- **scikit-learn**: Offers a variety of machine learning algorithms and utilities for data preprocessing and model evaluation.
 
 ## Datasets
 - Datasets are accessible here (Login with a concordia email): https://liveconcordia-my.sharepoint.com/:f:/g/personal/lu_rami_live_concordia_ca/EvQYxf2VPVJHvL-TsQW0i9ABTrSW5WSeH4Pjz5NTlnD6Fg?e=LZXkmF
