@@ -6,3 +6,5 @@ numpy
 scikit-learn
 seaborn
 pandas
+torch
+torchvision
