@@ -14,6 +14,10 @@ This project currently consists of a collection of scripts designed to process, 
 
 - **shuffle_plots.py**: Similar to `generate_plots.py`, but focuses on shuffling images and analyzing RGB pixel distributions to better understand the dataset's diversity.
 
+- **generate_sets.py**: Generates training, validation, and testing sets for CNN training using preprocessed and augmented data.
+  
+- **training.py**: Trains convolutional neural network models for emotion recognition using preprocessed datasets.
+
 - **requirements.txt**: Lists all the necessary Python libraries required to run the scripts effectively.
 
 ## Dependencies
@@ -74,3 +78,26 @@ python generate_plots.py <image_directory>
 ```
 python shuffle_plots.py <image_directory>
 ```
+
+### Generating Training, Validation and Testing sets
+
+```
+python training.py
+```
+Note: The script generates three data loaders (data_loader.pt, valid_loader.pt, test_loader.pt) containing the training, validation, and testing sets respectively, ready for CNN training.
+      The script performs data augmentation, splitting the data into training, validation, and testing sets, and ensures the uniqueness of the image sets across the splits.
+
+
+### Training CNN Models
+
+```
+python training.py
+```
+
+Note: Ensure that the necessary data loaders (data_loader.pt, valid_loader.pt, test_loader.pt) are available before running training.py.
+
+
+
+
+
+
