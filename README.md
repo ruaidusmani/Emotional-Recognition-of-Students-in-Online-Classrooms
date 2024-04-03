@@ -16,7 +16,9 @@ This project currently consists of a collection of scripts designed to process, 
 
 - **generate_sets.py**: Generates training, validation, and testing sets for CNN training using preprocessed and augmented data.
   
-- **training.py**: Trains convolutional neural network models for emotion recognition using preprocessed datasets.
+- **training.py**: Trains convolutional neural network models for emotion recognition using preprocessed datasets. Models are saved as .pth files.
+
+- **evaluation.py**: Evaluates the performance of trained CNN models on a test dataset, computes performance metrics, and generates a confusion matrix for each model.
 
 - **requirements.txt**: Lists all the necessary Python libraries required to run the scripts effectively.
 
@@ -85,7 +87,8 @@ python shuffle_plots.py <image_directory>
 python training.py
 ```
 Note: The script generates three data loaders (data_loader.pt, valid_loader.pt, test_loader.pt) containing the training, validation, and testing sets respectively, ready for CNN training.
-      The script performs data augmentation, splitting the data into training, validation, and testing sets, and ensures the uniqueness of the image sets across the splits.
+
+The script performs data augmentation, splitting the data into training, validation, and testing sets, and ensures the uniqueness of the image sets across the splits.
 
 
 ### Training CNN Models
@@ -95,6 +98,17 @@ python training.py
 ```
 
 Note: Ensure that the necessary data loaders (data_loader.pt, valid_loader.pt, test_loader.pt) are available before running training.py.
+
+### Evaluating CNN Models
+
+```
+python evaluation.py
+```
+
+Note: Ensure that the trained models and the test dataset are available, and the necessary data loaders are already generated before running the script.
+
+It generates a confusion matrix for each model, visualizing the classification performance across different classes.
+The script saves the performance metrics in a CSV file named evaluation_stats.csv.
 
 
 
