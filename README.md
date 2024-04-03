@@ -1,6 +1,8 @@
-# Image Processing and Augmentation Pipeline for CNN based Emotional Recognition
+# Emotion Recognition Pipeline with CNN-based Image Processing
 
-This project currently consists of a collection of scripts designed to process, augment, and analyze image datasets, particularly focusing on datasets categorized based on emotions. It leverages popular Python libraries for image manipulation and analysis, ensuring that the images are prepared for machine learning tasks, particularly in emotion recognition.
+This project currently consists of a collection of scripts designed to firsty process, augment, and analyze image datasets, particularly focusing on datasets categorized based on emotions. It leverages popular Python libraries for image manipulation and analysis, ensuring that the images are prepared for machine learning tasks, particularly in emotion recognition.
+It then has a set of set generation, training, and model evaluation scripts to develop the CNN models.
+
 
 ## Scripts Overview
 
