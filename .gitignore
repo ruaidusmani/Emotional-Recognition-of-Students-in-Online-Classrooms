@@ -7,3 +7,4 @@ cnn_proj/
 training/CNN.pth
 training/CNN2.pth
 training/CNN3.pth
+*.pt
