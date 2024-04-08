@@ -1,0 +1,286 @@
+Training for model CNN2 kfolds:  1
+Epoch [1/1000], Step [1/5], Loss: 0.6457, Accuracy: 72.65%, F1 Score: 0.75
+Epoch [2/1000], Step [1/5], Loss: 0.4516, Accuracy: 79.46%, F1 Score: 0.82
+Epoch [3/1000], Step [1/5], Loss: 0.3690, Accuracy: 87.75%, F1 Score: 0.86
+Epoch [4/1000], Step [1/5], Loss: 0.2911, Accuracy: 92.08%, F1 Score: 0.89
+Epoch [5/1000], Step [1/5], Loss: 0.2695, Accuracy: 92.82%, F1 Score: 0.87
+Epoch [6/1000], Step [1/5], Loss: 0.2139, Accuracy: 96.04%, F1 Score: 0.92
+Epoch [7/1000], Step [1/5], Loss: 0.2276, Accuracy: 95.92%, F1 Score: 0.91
+Epoch [8/1000], Step [1/5], Loss: 0.1872, Accuracy: 97.65%, F1 Score: 0.92
+Epoch [9/1000], Step [1/5], Loss: 0.2776, Accuracy: 98.76%, F1 Score: 0.89
+Epoch [10/1000], Step [1/5], Loss: 0.2164, Accuracy: 98.51%, F1 Score: 0.91
+Epoch [11/1000], Step [1/5], Loss: 0.2985, Accuracy: 99.13%, F1 Score: 0.90
+Epoch [12/1000], Step [1/5], Loss: 0.1955, Accuracy: 99.63%, F1 Score: 0.92
+Epoch [13/1000], Step [1/5], Loss: 0.2717, Accuracy: 99.26%, F1 Score: 0.91
+Epoch [14/1000], Step [1/5], Loss: 0.2847, Accuracy: 99.50%, F1 Score: 0.91
+Epoch [15/1000], Step [1/5], Loss: 0.2390, Accuracy: 99.75%, F1 Score: 0.91
+Epoch [16/1000], Step [1/5], Loss: 0.2623, Accuracy: 100.00%, F1 Score: 0.92
+Epoch [17/1000], Step [1/5], Loss: 0.2483, Accuracy: 99.88%, F1 Score: 0.92
+Epoch [18/1000], Step [1/5], Loss: 0.2322, Accuracy: 100.00%, F1 Score: 0.92
+
+----------------------------------------
+Early stopping at epoch 17
+Best epoch:  7
+Best loss:  0.18721605837345123  Best test F1 score:  0.9244476115035248  Best test accuracy:  0.924
+Training for model CNN2 kfolds:  2
+Epoch [1/1000], Step [1/5], Loss: 0.8155, Accuracy: 67.95%, F1 Score: 0.65
+Epoch [2/1000], Step [1/5], Loss: 0.4763, Accuracy: 83.79%, F1 Score: 0.82
+Epoch [3/1000], Step [1/5], Loss: 0.3706, Accuracy: 88.00%, F1 Score: 0.89
+Epoch [4/1000], Step [1/5], Loss: 0.3083, Accuracy: 92.45%, F1 Score: 0.90
+Epoch [5/1000], Step [1/5], Loss: 0.3112, Accuracy: 93.69%, F1 Score: 0.90
+Epoch [6/1000], Step [1/5], Loss: 0.2868, Accuracy: 95.92%, F1 Score: 0.93
+Epoch [7/1000], Step [1/5], Loss: 0.2477, Accuracy: 96.04%, F1 Score: 0.94
+Epoch [8/1000], Step [1/5], Loss: 0.2911, Accuracy: 99.26%, F1 Score: 0.94
+Epoch [9/1000], Step [1/5], Loss: 0.2772, Accuracy: 99.26%, F1 Score: 0.95
+Epoch [10/1000], Step [1/5], Loss: 0.2662, Accuracy: 98.76%, F1 Score: 0.93
+Epoch [11/1000], Step [1/5], Loss: 0.2763, Accuracy: 99.75%, F1 Score: 0.92
+Epoch [12/1000], Step [1/5], Loss: 0.3255, Accuracy: 99.13%, F1 Score: 0.94
+Epoch [13/1000], Step [1/5], Loss: 0.3584, Accuracy: 99.50%, F1 Score: 0.93
+Epoch [14/1000], Step [1/5], Loss: 0.3094, Accuracy: 99.26%, F1 Score: 0.93
+Epoch [15/1000], Step [1/5], Loss: 0.3371, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [16/1000], Step [1/5], Loss: 0.3897, Accuracy: 99.88%, F1 Score: 0.94
+Epoch [17/1000], Step [1/5], Loss: 0.3828, Accuracy: 100.00%, F1 Score: 0.93
+
+----------------------------------------
+Early stopping at epoch 16
+Best epoch:  6
+Best loss:  0.24767851829528809  Best test F1 score:  0.9298352788821718  Best test accuracy:  0.924
+Training for model CNN2 kfolds:  3
+Epoch [1/1000], Step [1/5], Loss: 0.7191, Accuracy: 64.60%, F1 Score: 0.77
+Epoch [2/1000], Step [1/5], Loss: 0.4134, Accuracy: 79.46%, F1 Score: 0.83
+Epoch [3/1000], Step [1/5], Loss: 0.2837, Accuracy: 88.00%, F1 Score: 0.89
+Epoch [4/1000], Step [1/5], Loss: 0.2620, Accuracy: 92.82%, F1 Score: 0.90
+Epoch [5/1000], Step [1/5], Loss: 0.2295, Accuracy: 95.30%, F1 Score: 0.91
+Epoch [6/1000], Step [1/5], Loss: 0.2390, Accuracy: 96.66%, F1 Score: 0.91
+Epoch [7/1000], Step [1/5], Loss: 0.2126, Accuracy: 97.03%, F1 Score: 0.91
+Epoch [8/1000], Step [1/5], Loss: 0.2896, Accuracy: 98.39%, F1 Score: 0.90
+Epoch [9/1000], Step [1/5], Loss: 0.2093, Accuracy: 98.76%, F1 Score: 0.94
+Epoch [10/1000], Step [1/5], Loss: 0.2016, Accuracy: 99.26%, F1 Score: 0.94
+Epoch [11/1000], Step [1/5], Loss: 0.2268, Accuracy: 99.13%, F1 Score: 0.94
+Epoch [12/1000], Step [1/5], Loss: 0.2333, Accuracy: 99.38%, F1 Score: 0.95
+Epoch [13/1000], Step [1/5], Loss: 0.2220, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [14/1000], Step [1/5], Loss: 0.2398, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [15/1000], Step [1/5], Loss: 0.2137, Accuracy: 99.88%, F1 Score: 0.94
+Epoch [16/1000], Step [1/5], Loss: 0.2917, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [17/1000], Step [1/5], Loss: 0.2514, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [18/1000], Step [1/5], Loss: 0.2495, Accuracy: 99.75%, F1 Score: 0.94
+Epoch [19/1000], Step [1/5], Loss: 0.2408, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [20/1000], Step [1/5], Loss: 0.2696, Accuracy: 100.00%, F1 Score: 0.95
+
+----------------------------------------
+Early stopping at epoch 19
+Best epoch:  9
+Best loss:  0.20157839357852936  Best test F1 score:  0.9501931994561241  Best test accuracy:  0.95
+Training for model CNN2 kfolds:  4
+Epoch [1/1000], Step [1/5], Loss: 1.0040, Accuracy: 47.90%, F1 Score: 0.68
+Epoch [2/1000], Step [1/5], Loss: 0.5346, Accuracy: 73.64%, F1 Score: 0.83
+Epoch [3/1000], Step [1/5], Loss: 0.3917, Accuracy: 83.17%, F1 Score: 0.87
+Epoch [4/1000], Step [1/5], Loss: 0.2957, Accuracy: 89.11%, F1 Score: 0.89
+Epoch [5/1000], Step [1/5], Loss: 0.2695, Accuracy: 90.35%, F1 Score: 0.89
+Epoch [6/1000], Step [1/5], Loss: 0.1999, Accuracy: 94.43%, F1 Score: 0.93
+Epoch [7/1000], Step [1/5], Loss: 0.1887, Accuracy: 94.06%, F1 Score: 0.94
+Epoch [8/1000], Step [1/5], Loss: 0.1789, Accuracy: 95.05%, F1 Score: 0.94
+Epoch [9/1000], Step [1/5], Loss: 0.1625, Accuracy: 96.91%, F1 Score: 0.94
+Epoch [10/1000], Step [1/5], Loss: 0.1602, Accuracy: 95.92%, F1 Score: 0.94
+Epoch [11/1000], Step [1/5], Loss: 0.1557, Accuracy: 96.53%, F1 Score: 0.95
+Epoch [12/1000], Step [1/5], Loss: 0.1445, Accuracy: 98.64%, F1 Score: 0.96
+Epoch [13/1000], Step [1/5], Loss: 0.1464, Accuracy: 99.01%, F1 Score: 0.96
+Epoch [14/1000], Step [1/5], Loss: 0.1529, Accuracy: 99.38%, F1 Score: 0.96
+Epoch [15/1000], Step [1/5], Loss: 0.1732, Accuracy: 99.38%, F1 Score: 0.95
+Epoch [16/1000], Step [1/5], Loss: 0.1383, Accuracy: 99.88%, F1 Score: 0.97
+Epoch [17/1000], Step [1/5], Loss: 0.1356, Accuracy: 100.00%, F1 Score: 0.96
+Epoch [18/1000], Step [1/5], Loss: 0.1520, Accuracy: 99.88%, F1 Score: 0.96
+Epoch [19/1000], Step [1/5], Loss: 0.1620, Accuracy: 99.75%, F1 Score: 0.96
+Epoch [20/1000], Step [1/5], Loss: 0.1568, Accuracy: 99.75%, F1 Score: 0.96
+Epoch [21/1000], Step [1/5], Loss: 0.1798, Accuracy: 99.88%, F1 Score: 0.97
+Epoch [22/1000], Step [1/5], Loss: 0.1710, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [23/1000], Step [1/5], Loss: 0.1578, Accuracy: 99.75%, F1 Score: 0.96
+Epoch [24/1000], Step [1/5], Loss: 0.1737, Accuracy: 99.63%, F1 Score: 0.96
+Epoch [25/1000], Step [1/5], Loss: 0.1433, Accuracy: 99.88%, F1 Score: 0.97
+Epoch [26/1000], Step [1/5], Loss: 0.1529, Accuracy: 99.88%, F1 Score: 0.97
+Epoch [27/1000], Step [1/5], Loss: 0.1775, Accuracy: 99.88%, F1 Score: 0.96
+
+----------------------------------------
+Early stopping at epoch 26
+Best epoch:  16
+Best loss:  0.13558311760425568  Best test F1 score:  0.9573313307554535  Best test accuracy:  0.96
+Training for model CNN2 kfolds:  5
+Epoch [1/1000], Step [1/5], Loss: 0.9599, Accuracy: 56.93%, F1 Score: 0.60
+Epoch [2/1000], Step [1/5], Loss: 0.6387, Accuracy: 78.47%, F1 Score: 0.77
+Epoch [3/1000], Step [1/5], Loss: 0.4325, Accuracy: 87.13%, F1 Score: 0.85
+Epoch [4/1000], Step [1/5], Loss: 0.3517, Accuracy: 91.71%, F1 Score: 0.88
+Epoch [5/1000], Step [1/5], Loss: 0.3293, Accuracy: 94.06%, F1 Score: 0.89
+Epoch [6/1000], Step [1/5], Loss: 0.2826, Accuracy: 93.07%, F1 Score: 0.91
+Epoch [7/1000], Step [1/5], Loss: 0.2802, Accuracy: 95.67%, F1 Score: 0.90
+Epoch [8/1000], Step [1/5], Loss: 0.2589, Accuracy: 97.52%, F1 Score: 0.92
+Epoch [9/1000], Step [1/5], Loss: 0.2417, Accuracy: 97.52%, F1 Score: 0.91
+Epoch [10/1000], Step [1/5], Loss: 0.2121, Accuracy: 98.64%, F1 Score: 0.92
+Epoch [11/1000], Step [1/5], Loss: 0.2310, Accuracy: 99.26%, F1 Score: 0.93
+Epoch [12/1000], Step [1/5], Loss: 0.2569, Accuracy: 98.89%, F1 Score: 0.92
+Epoch [13/1000], Step [1/5], Loss: 0.2261, Accuracy: 99.75%, F1 Score: 0.92
+Epoch [14/1000], Step [1/5], Loss: 0.1976, Accuracy: 99.63%, F1 Score: 0.93
+Epoch [15/1000], Step [1/5], Loss: 0.2081, Accuracy: 99.75%, F1 Score: 0.94
+Epoch [16/1000], Step [1/5], Loss: 0.2443, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [17/1000], Step [1/5], Loss: 0.2284, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [18/1000], Step [1/5], Loss: 0.2304, Accuracy: 100.00%, F1 Score: 0.92
+Epoch [19/1000], Step [1/5], Loss: 0.2066, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [20/1000], Step [1/5], Loss: 0.2124, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [21/1000], Step [1/5], Loss: 0.2491, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [22/1000], Step [1/5], Loss: 0.2091, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [23/1000], Step [1/5], Loss: 0.2004, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [24/1000], Step [1/5], Loss: 0.2072, Accuracy: 100.00%, F1 Score: 0.94
+
+----------------------------------------
+Early stopping at epoch 23
+Best epoch:  13
+Best loss:  0.19764888286590576  Best test F1 score:  0.9380221202846013  Best test accuracy:  0.938
+Training for model CNN2 kfolds:  6
+Epoch [1/1000], Step [1/5], Loss: 0.7751, Accuracy: 57.67%, F1 Score: 0.68
+Epoch [2/1000], Step [1/5], Loss: 0.4725, Accuracy: 80.20%, F1 Score: 0.79
+Epoch [3/1000], Step [1/5], Loss: 0.3277, Accuracy: 87.50%, F1 Score: 0.86
+Epoch [4/1000], Step [1/5], Loss: 0.2755, Accuracy: 91.21%, F1 Score: 0.87
+Epoch [5/1000], Step [1/5], Loss: 0.2322, Accuracy: 92.20%, F1 Score: 0.89
+Epoch [6/1000], Step [1/5], Loss: 0.2048, Accuracy: 94.43%, F1 Score: 0.92
+Epoch [7/1000], Step [1/5], Loss: 0.1476, Accuracy: 96.29%, F1 Score: 0.94
+Epoch [8/1000], Step [1/5], Loss: 0.1656, Accuracy: 96.78%, F1 Score: 0.94
+Epoch [9/1000], Step [1/5], Loss: 0.1679, Accuracy: 97.52%, F1 Score: 0.92
+Epoch [10/1000], Step [1/5], Loss: 0.1422, Accuracy: 97.40%, F1 Score: 0.94
+Epoch [11/1000], Step [1/5], Loss: 0.1482, Accuracy: 99.38%, F1 Score: 0.93
+Epoch [12/1000], Step [1/5], Loss: 0.1484, Accuracy: 99.13%, F1 Score: 0.93
+Epoch [13/1000], Step [1/5], Loss: 0.1636, Accuracy: 99.50%, F1 Score: 0.94
+Epoch [14/1000], Step [1/5], Loss: 0.1337, Accuracy: 99.13%, F1 Score: 0.93
+Epoch [15/1000], Step [1/5], Loss: 0.1869, Accuracy: 99.50%, F1 Score: 0.92
+Epoch [16/1000], Step [1/5], Loss: 0.1732, Accuracy: 99.88%, F1 Score: 0.94
+Epoch [17/1000], Step [1/5], Loss: 0.1590, Accuracy: 99.75%, F1 Score: 0.93
+Epoch [18/1000], Step [1/5], Loss: 0.1354, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [19/1000], Step [1/5], Loss: 0.2119, Accuracy: 100.00%, F1 Score: 0.92
+Epoch [20/1000], Step [1/5], Loss: 0.1246, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [21/1000], Step [1/5], Loss: 0.1546, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [22/1000], Step [1/5], Loss: 0.1281, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [23/1000], Step [1/5], Loss: 0.1668, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [24/1000], Step [1/5], Loss: 0.1454, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [25/1000], Step [1/5], Loss: 0.1664, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [26/1000], Step [1/5], Loss: 0.2045, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [27/1000], Step [1/5], Loss: 0.1655, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [28/1000], Step [1/5], Loss: 0.1618, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [29/1000], Step [1/5], Loss: 0.1805, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [30/1000], Step [1/5], Loss: 0.1546, Accuracy: 100.00%, F1 Score: 0.94
+
+----------------------------------------
+Early stopping at epoch 29
+Best epoch:  19
+Best loss:  0.12460030615329742  Best test F1 score:  0.9445613546181539  Best test accuracy:  0.944
+Training for model CNN2 kfolds:  7
+Epoch [1/1000], Step [1/5], Loss: 0.7661, Accuracy: 63.12%, F1 Score: 0.68
+Epoch [2/1000], Step [1/5], Loss: 0.3688, Accuracy: 82.30%, F1 Score: 0.85
+Epoch [3/1000], Step [1/5], Loss: 0.2560, Accuracy: 90.59%, F1 Score: 0.89
+Epoch [4/1000], Step [1/5], Loss: 0.2272, Accuracy: 91.96%, F1 Score: 0.91
+Epoch [5/1000], Step [1/5], Loss: 0.1974, Accuracy: 92.33%, F1 Score: 0.92
+Epoch [6/1000], Step [1/5], Loss: 0.1688, Accuracy: 94.80%, F1 Score: 0.94
+Epoch [7/1000], Step [1/5], Loss: 0.1695, Accuracy: 96.16%, F1 Score: 0.93
+Epoch [8/1000], Step [1/5], Loss: 0.1570, Accuracy: 98.27%, F1 Score: 0.93
+Epoch [9/1000], Step [1/5], Loss: 0.1645, Accuracy: 98.27%, F1 Score: 0.95
+Epoch [10/1000], Step [1/5], Loss: 0.1461, Accuracy: 98.89%, F1 Score: 0.95
+Epoch [11/1000], Step [1/5], Loss: 0.1617, Accuracy: 99.50%, F1 Score: 0.95
+Epoch [12/1000], Step [1/5], Loss: 0.1486, Accuracy: 99.01%, F1 Score: 0.95
+Epoch [13/1000], Step [1/5], Loss: 0.1457, Accuracy: 99.75%, F1 Score: 0.94
+Epoch [14/1000], Step [1/5], Loss: 0.1583, Accuracy: 99.50%, F1 Score: 0.96
+Epoch [15/1000], Step [1/5], Loss: 0.1651, Accuracy: 99.75%, F1 Score: 0.95
+Epoch [16/1000], Step [1/5], Loss: 0.1879, Accuracy: 99.88%, F1 Score: 0.94
+Epoch [17/1000], Step [1/5], Loss: 0.1943, Accuracy: 100.00%, F1 Score: 0.96
+Epoch [18/1000], Step [1/5], Loss: 0.1392, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [19/1000], Step [1/5], Loss: 0.1591, Accuracy: 99.88%, F1 Score: 0.96
+Epoch [20/1000], Step [1/5], Loss: 0.1705, Accuracy: 100.00%, F1 Score: 0.96
+Epoch [21/1000], Step [1/5], Loss: 0.1999, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [22/1000], Step [1/5], Loss: 0.1889, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [23/1000], Step [1/5], Loss: 0.2060, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [24/1000], Step [1/5], Loss: 0.1751, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [25/1000], Step [1/5], Loss: 0.2070, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [26/1000], Step [1/5], Loss: 0.2067, Accuracy: 100.00%, F1 Score: 0.96
+Epoch [27/1000], Step [1/5], Loss: 0.2063, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [28/1000], Step [1/5], Loss: 0.2014, Accuracy: 100.00%, F1 Score: 0.95
+
+----------------------------------------
+Early stopping at epoch 27
+Best epoch:  17
+Best loss:  0.13916455209255219  Best test F1 score:  0.9518428142016917  Best test accuracy:  0.956
+Training for model CNN2 kfolds:  8
+Epoch [1/1000], Step [1/5], Loss: 0.6745, Accuracy: 69.06%, F1 Score: 0.73
+Epoch [2/1000], Step [1/5], Loss: 0.3964, Accuracy: 84.03%, F1 Score: 0.84
+Epoch [3/1000], Step [1/5], Loss: 0.2945, Accuracy: 88.99%, F1 Score: 0.88
+Epoch [4/1000], Step [1/5], Loss: 0.2741, Accuracy: 90.10%, F1 Score: 0.90
+Epoch [5/1000], Step [1/5], Loss: 0.3206, Accuracy: 92.08%, F1 Score: 0.90
+Epoch [6/1000], Step [1/5], Loss: 0.2278, Accuracy: 95.54%, F1 Score: 0.92
+Epoch [7/1000], Step [1/5], Loss: 0.2422, Accuracy: 97.40%, F1 Score: 0.94
+Epoch [8/1000], Step [1/5], Loss: 0.2100, Accuracy: 98.02%, F1 Score: 0.93
+Epoch [9/1000], Step [1/5], Loss: 0.2371, Accuracy: 98.27%, F1 Score: 0.94
+Epoch [10/1000], Step [1/5], Loss: 0.2102, Accuracy: 99.26%, F1 Score: 0.94
+Epoch [11/1000], Step [1/5], Loss: 0.1746, Accuracy: 99.13%, F1 Score: 0.95
+Epoch [12/1000], Step [1/5], Loss: 0.1766, Accuracy: 99.26%, F1 Score: 0.95
+Epoch [13/1000], Step [1/5], Loss: 0.2135, Accuracy: 99.75%, F1 Score: 0.94
+Epoch [14/1000], Step [1/5], Loss: 0.2312, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [15/1000], Step [1/5], Loss: 0.2782, Accuracy: 99.88%, F1 Score: 0.94
+Epoch [16/1000], Step [1/5], Loss: 0.2892, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [17/1000], Step [1/5], Loss: 0.2863, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [18/1000], Step [1/5], Loss: 0.2889, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [19/1000], Step [1/5], Loss: 0.2329, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [20/1000], Step [1/5], Loss: 0.2726, Accuracy: 100.00%, F1 Score: 0.93
+Epoch [21/1000], Step [1/5], Loss: 0.2884, Accuracy: 100.00%, F1 Score: 0.94
+
+----------------------------------------
+Early stopping at epoch 20
+Best epoch:  10
+Best loss:  0.1746458262205124  Best test F1 score:  0.9370392136208349  Best test accuracy:  0.938
+Training for model CNN2 kfolds:  9
+Epoch [1/1000], Step [1/5], Loss: 0.7233, Accuracy: 70.67%, F1 Score: 0.72
+Epoch [2/1000], Step [1/5], Loss: 0.4049, Accuracy: 81.56%, F1 Score: 0.84
+Epoch [3/1000], Step [1/5], Loss: 0.2175, Accuracy: 88.86%, F1 Score: 0.91
+Epoch [4/1000], Step [1/5], Loss: 0.1679, Accuracy: 93.07%, F1 Score: 0.94
+Epoch [5/1000], Step [1/5], Loss: 0.1435, Accuracy: 93.69%, F1 Score: 0.94
+Epoch [6/1000], Step [1/5], Loss: 0.1631, Accuracy: 94.18%, F1 Score: 0.93
+Epoch [7/1000], Step [1/5], Loss: 0.1168, Accuracy: 95.79%, F1 Score: 0.95
+Epoch [8/1000], Step [1/5], Loss: 0.0995, Accuracy: 98.39%, F1 Score: 0.95
+Epoch [9/1000], Step [1/5], Loss: 0.0919, Accuracy: 98.64%, F1 Score: 0.96
+Epoch [10/1000], Step [1/5], Loss: 0.0903, Accuracy: 99.38%, F1 Score: 0.96
+Epoch [11/1000], Step [1/5], Loss: 0.0892, Accuracy: 99.38%, F1 Score: 0.96
+Epoch [12/1000], Step [1/5], Loss: 0.1032, Accuracy: 99.63%, F1 Score: 0.96
+Epoch [13/1000], Step [1/5], Loss: 0.1066, Accuracy: 99.88%, F1 Score: 0.96
+Epoch [14/1000], Step [1/5], Loss: 0.1034, Accuracy: 99.88%, F1 Score: 0.96
+Epoch [15/1000], Step [1/5], Loss: 0.1013, Accuracy: 100.00%, F1 Score: 0.96
+Epoch [16/1000], Step [1/5], Loss: 0.0999, Accuracy: 99.75%, F1 Score: 0.96
+Epoch [17/1000], Step [1/5], Loss: 0.0973, Accuracy: 100.00%, F1 Score: 0.96
+Epoch [18/1000], Step [1/5], Loss: 0.1015, Accuracy: 100.00%, F1 Score: 0.97
+Epoch [19/1000], Step [1/5], Loss: 0.0971, Accuracy: 100.00%, F1 Score: 0.96
+Epoch [20/1000], Step [1/5], Loss: 0.1024, Accuracy: 100.00%, F1 Score: 0.96
+Epoch [21/1000], Step [1/5], Loss: 0.1051, Accuracy: 100.00%, F1 Score: 0.96
+
+----------------------------------------
+Early stopping at epoch 20
+Best epoch:  10
+Best loss:  0.0891646221280098  Best test F1 score:  0.958146203372279  Best test accuracy:  0.958
+Training for model CNN2 kfolds:  10
+Epoch [1/1000], Step [1/5], Loss: 0.8048, Accuracy: 62.75%, F1 Score: 0.70
+Epoch [2/1000], Step [1/5], Loss: 0.4039, Accuracy: 80.57%, F1 Score: 0.82
+Epoch [3/1000], Step [1/5], Loss: 0.2844, Accuracy: 88.00%, F1 Score: 0.89
+Epoch [4/1000], Step [1/5], Loss: 0.1936, Accuracy: 92.08%, F1 Score: 0.91
+Epoch [5/1000], Step [1/5], Loss: 0.1664, Accuracy: 92.95%, F1 Score: 0.94
+Epoch [6/1000], Step [1/5], Loss: 0.1628, Accuracy: 92.95%, F1 Score: 0.94
+Epoch [7/1000], Step [1/5], Loss: 0.1572, Accuracy: 96.66%, F1 Score: 0.92
+Epoch [8/1000], Step [1/5], Loss: 0.1508, Accuracy: 97.65%, F1 Score: 0.95
+Epoch [9/1000], Step [1/5], Loss: 0.1680, Accuracy: 97.40%, F1 Score: 0.95
+Epoch [10/1000], Step [1/5], Loss: 0.1237, Accuracy: 97.90%, F1 Score: 0.96
+Epoch [11/1000], Step [1/5], Loss: 0.1389, Accuracy: 98.76%, F1 Score: 0.95
+Epoch [12/1000], Step [1/5], Loss: 0.1420, Accuracy: 99.88%, F1 Score: 0.96
+Epoch [13/1000], Step [1/5], Loss: 0.1414, Accuracy: 99.75%, F1 Score: 0.95
+Epoch [14/1000], Step [1/5], Loss: 0.1475, Accuracy: 99.88%, F1 Score: 0.95
+Epoch [15/1000], Step [1/5], Loss: 0.1618, Accuracy: 99.88%, F1 Score: 0.95
+Epoch [16/1000], Step [1/5], Loss: 0.1518, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [17/1000], Step [1/5], Loss: 0.1648, Accuracy: 100.00%, F1 Score: 0.95
+Epoch [18/1000], Step [1/5], Loss: 0.1436, Accuracy: 99.88%, F1 Score: 0.95
+Epoch [19/1000], Step [1/5], Loss: 0.2166, Accuracy: 100.00%, F1 Score: 0.94
+Epoch [20/1000], Step [1/5], Loss: 0.1542, Accuracy: 100.00%, F1 Score: 0.96
+
+----------------------------------------
+Early stopping at epoch 19
+Best epoch:  9
+Best loss:  0.12374211102724075  Best test F1 score:  0.9564116392825788  Best test accuracy:  0.958
