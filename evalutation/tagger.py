@@ -97,4 +97,4 @@ if __name__ == '__main__':
     # tag_category(['focused', 'happy', 'surprised', 'neutral
     os.chdir('../')        
     confirm_all_are_tagged()
-    tag_category(['focused'], 'age')
+    tag_category(['non-binary'], 'gender')

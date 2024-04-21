@@ -9,8 +9,8 @@ def flatten_image(image_name, subfolder):
 
 def get_image_subfolder(image_name):
     # expand folder ../concat_data_tagged
-    for subfolder in os.listdir('../concat_data_tagged'):
-        if image_name in os.listdir('../concat_data_tagged/' + subfolder):
+    for subfolder in os.listdir('../concat_data_tagged_new'):
+        if image_name in os.listdir('../concat_data_tagged_new/' + subfolder):
             return subfolder
         
     
@@ -64,7 +64,7 @@ def test_individual_image(model, image_name, category, labels, read_custom_path 
         image_name = read_custom_path
         #save the image
     else:
-        img = cv2.imread("../concat_data_tagged/%s/%s" % (category, image_name), 0)
+        img = cv2.imread("../concat_data_tagged_new/%s/%s" % (category, image_name), 0)
     
     #resize to 48x48 pixels
     img = cv2.resize(img, (48, 48))
