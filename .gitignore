@@ -4,7 +4,4 @@ cnn_proj/
 *.png
 *.7z
 *.zip
-training/CNN.pth
-training/CNN2.pth
-training/CNN3.pth
 *.pt
